@@ -18,7 +18,7 @@ This project demonstrates how to host a static website using **Amazon S3** and s
 - Optional custom domain (future upgrade)
 
 ## 📸 Screenshot
-_Add a screenshot here later when deployed!_
+![Live Site Screenshot](./screenshot.png)
 
 ## 📁 Files
 - `index.html` – Simple static website
